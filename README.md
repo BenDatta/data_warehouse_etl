@@ -9,7 +9,7 @@ The pipeline follows a **layered architecture**:
 - **Silver Layer:** Cleansing, standardization, and transformation to ensure data quality and consistency.  
 - **Gold Layer:** Business-level dimension and fact tables, structured for analytics and reporting.  
 
-This project showcases building scalable and maintainable **data pipelines** for real-world enterprise data.
+This project showcases building scalable and maintainable **data pipelines** for real-world business use.
 
 ---
 
